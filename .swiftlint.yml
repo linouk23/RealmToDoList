@@ -1,0 +1,9 @@
+--- 
+disabled_rules: 
+  - trailing_newline
+  - trailing_whitespace
+  - identifier_name
+  - force_try
+excluded: 
+  - Pods
+line_length: 250

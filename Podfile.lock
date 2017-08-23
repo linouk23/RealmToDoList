@@ -1,0 +1,27 @@
+PODS:
+  - Keys (1.0.0)
+  - Realm (2.9.0):
+    - Realm/Headers (= 2.9.0)
+  - Realm/Headers (2.9.0)
+  - RealmSwift (2.9.0):
+    - Realm (= 2.9.0)
+  - SwiftLint (0.21.0)
+
+DEPENDENCIES:
+  - Keys (from `Pods/CocoaPodsKeys`)
+  - RealmSwift (= 2.9)
+  - SwiftLint (~> 0.21)
+
+EXTERNAL SOURCES:
+  Keys:
+    :path: Pods/CocoaPodsKeys
+
+SPEC CHECKSUMS:
+  Keys: 9c35bf00f612ee1d48556f4a4b9b4551e224e90f
+  Realm: f14ab1673502559cb16592ddb8f383c474c13e05
+  RealmSwift: 16ad2c187042c4934f49750375582fe508627dcb
+  SwiftLint: 6de8b2d15f43c482bdec2953b8cfd696faa876e8
+
+PODFILE CHECKSUM: d5482c3ad6a41b9b09ab03afd8fb64354c368503
+
+COCOAPODS: 1.3.1
